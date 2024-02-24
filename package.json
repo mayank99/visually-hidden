@@ -1,0 +1,21 @@
+{
+	"name": "@acab/visually-hidden",
+	"type": "module",
+	"version": "0.1.0",
+	"exports": {
+		".": "./index.js",
+		"./styles.css": "./styles.css"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mayank99/visually-hidden.git"
+	},
+	"author": "Mayank",
+	"files": [
+		"index.js",
+		"index.d.ts",
+		"styles.css"
+	],
+	"main": "index.js",
+	"types": "index.d.ts"
+}
